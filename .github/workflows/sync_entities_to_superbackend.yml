@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: adrianjost/files-sync-action@v1
         with:
-          GITHUB_TOKEN: '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'
+          GITHUB_TOKEN: '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'
           FILE_PATTERNS: |
             ^LICENSE\.md$
           TARGET_REPOS: |
